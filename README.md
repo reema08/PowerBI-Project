@@ -12,7 +12,7 @@
 
 📃Dashboard
 ---
-<imgage src="https://github.com/reema08/PowerBI-Project/assets/109653833/5a36adc4-12ec-491c-8bdf-64204935e28d"> width="600" hight="800" />
+<imgage src="https://github.com/reema08/PowerBI-Project/assets/109653833/5a36adc4-12ec-491c-8bdf-64204935e28d" width="600" hight="800" />
 
 <image src="https://github.com/reema08/PowerBI-Project/assets/109653833/8a523b5b-6d78-4edd-9422-8f53bb3f4284"> width="40" hight="40" /> Google Drive Link :
 ---
