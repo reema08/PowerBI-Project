@@ -14,7 +14,7 @@
 ---
 <img width="607" alt="Dashboard" src="https://github.com/reema08/PowerBI-Project/assets/109653833/5a36adc4-12ec-491c-8bdf-64204935e28d">
 
-<image src="https://github.com/reema08/PowerBI-Project/assets/109653833/8a523b5b-6d78-4edd-9422-8f53bb3f4284"> width="80" hight="80" /> Google Drive Link :
+<image src="https://github.com/reema08/PowerBI-Project/assets/109653833/8a523b5b-6d78-4edd-9422-8f53bb3f4284"> width="40" hight="40" /> Google Drive Link :
 ---
 * All the necessary data in one folder : [Click here](https://drive.google.com/drive/folders/15R3o2FkFOMBuo7-adQfRidfyRuhBL5YG?usp=sharing)
 
